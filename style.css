@@ -11,13 +11,14 @@ tmavé pozadí pod textem   #31363b
 dělítka mezi tlačítky     #3f464d
 tlačítko portfolio        #e74c3c
 tlačítko facebook         #3b5998
-tlačítko twitter          #1da1f2
+tlačítko twitter          #1da1f2 
 */
 
 
 body {
   background-color: #bdc3c7;
   font-family: 'Source Sans Pro', sans-serif;
+  color: #bac4c3;
 }
 
 .profil{
@@ -44,7 +45,6 @@ body {
 
 .obsah{
   background-color: #31363b;
-  color: aliceblue;
   line-height: 1.5;
   padding: 10px 30px 25px 25px;
   margin: -5px 0 0 0;
@@ -52,6 +52,7 @@ body {
 
 .jmeno{
   font-family: 'Montserrat', sans-serif;
+  color: #fff8fd;
   font-size: 28px;
 }
 
@@ -71,7 +72,7 @@ body {
 }
 
 .odkazy a{
-  color: aliceblue;
+  color: #bac4c3;
   text-decoration: none;
   text-transform: uppercase;
 }
